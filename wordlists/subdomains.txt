@@ -1,0 +1,16 @@
+# Small starter wordlist. Add entries for your authorized environment.
+www
+mail
+ftp
+api
+dev
+staging
+test
+portal
+vpn
+blog
+shop
+cdn
+admin
+app
+webmail
